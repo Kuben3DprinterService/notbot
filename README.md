@@ -5,7 +5,7 @@
 - Kristoffer Sandviken
 - Ivar Andrei Bondad
 - Lars Christian Helgesen
-- Simen Solvang
+- Simen Solvang Helsehus
 - Dreni Suka
 
 ## Status
