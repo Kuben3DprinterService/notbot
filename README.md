@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/ManJvdO.jpg" width="150">
 
 ## Deltaker
-[Skriv navn her]
+Kristoffer Sandviken
 
 ## Status
 
