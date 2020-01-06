@@ -3,6 +3,7 @@
 
 ## Deltaker
 Kristoffer Sandviken
+Ivar Andrei Bondad
 
 ## Status
 
