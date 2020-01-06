@@ -6,6 +6,7 @@
 - Ivar Andrei Bondad
 - Lars Christian Helgesen
 - Simen Solvang
+- Dreni Suka
 
 ## Status
 
