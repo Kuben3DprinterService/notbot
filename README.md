@@ -7,7 +7,7 @@
 - Lars Christian Su Familia
 - Simen Solvang
 - Dreni Suka
-
+- ali abdullahi
 
 ## Status
 
