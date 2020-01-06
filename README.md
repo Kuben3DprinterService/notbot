@@ -4,8 +4,8 @@
 ## Deltaker
 - Kristoffer Sandviken
 - Ivar Andrei Bondad
-- Lars Christian Helgesen
-- Simen Solvang Helsehus
+- Lars Christian Su Familia
+- Simen Solvang
 - Dreni Suka
 
 
