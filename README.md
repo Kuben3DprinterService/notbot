@@ -4,7 +4,6 @@
 ## Deltaker
 - Kristoffer Sandviken
 - Ivar Andrei Bondad
-- test
 
 ## Status
 
