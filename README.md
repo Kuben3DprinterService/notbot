@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/ManJvdO.jpg" width="150">
 
 ## Deltaker
-Kristoffer Sandviken
-Ivar Andrei Bondad
+- Kristoffer Sandviken
+- Ivar Andrei Bondad
 
 ## Status
 
