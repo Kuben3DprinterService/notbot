@@ -16,3 +16,4 @@
 ## Mangende deler
 
 ## Ting som må fikses
+Alt må byttes
