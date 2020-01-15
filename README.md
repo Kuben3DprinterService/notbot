@@ -14,6 +14,8 @@
 ## Specifikasjoner
 
 ## Mangende deler
-
+- Print core
+- Skruer for deler
 ## Ting som må fikses
-Alt må byttes
+- Print core mangles
+- Trenger allen wrench med minste størrelse for å skru av og på deler
