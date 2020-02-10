@@ -19,5 +19,9 @@
 ## Ting som må fikses
 - Print core mangles
 - Trenger allen wrench med minste størrelse for å skru av og på deler
+
 ## Test
 Printeren har step motorer som beveger den rundt.
+
+bruker en skrue for å bevege seg opp og ned. 
+
