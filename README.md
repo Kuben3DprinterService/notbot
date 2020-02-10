@@ -21,7 +21,7 @@
 - Trenger allen wrench med minste størrelse for å skru av og på deler
 
 ## Test
-Printeren har step motorer som beveger den rundt.
+- Printeren har step motorer som beveger den rundt.
 
-bruker en skrue for å bevege seg opp og ned. 
+- Bruker en skrue for å bevege seg opp og ned. 
 
