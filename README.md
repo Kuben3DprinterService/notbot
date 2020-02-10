@@ -1,5 +1,5 @@
 # Notbot 3D printer
-<img src="notbot.jpg" width="150">
+<img src="notbot.jpg" width="150"></img>
 ![notbot](notbot.jpg)
 
 ## Deltaker
