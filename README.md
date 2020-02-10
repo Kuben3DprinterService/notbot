@@ -4,7 +4,7 @@
 ## Deltaker
 - Kristoffer Sandviken
 - Ivar Andrei Bondad
-- Lars Christian Su Familia
+- Lars Christian Helgesen
 - Simen Solvang
 - Dreni Suka
 - ali abdullahi
@@ -19,3 +19,5 @@
 ## Ting som må fikses
 - Print core mangles
 - Trenger allen wrench med minste størrelse for å skru av og på deler
+## Test
+Printeren har step motorer som beveger den rundt.
