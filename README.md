@@ -4,7 +4,7 @@
 ## Deltaker
 - Kristoffer Sandviken
 - Ivar Andrei Bondad
-- Lars Christian Su Familia
+- Lars Christian Helgesen
 - Simen Solvang
 - Dreni Suka
 - ali abdullahi
