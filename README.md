@@ -1,5 +1,5 @@
 # Notbot 3D printer
-<img src="https://i.imgur.com/ManJvdO.jpg" width="150">
+![notbot](notbot.jpg)
 
 ## Deltaker
 - Kristoffer Sandviken
