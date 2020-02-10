@@ -18,4 +18,4 @@
 - Skruer for deler
 ## Ting som må fikses
 - Print core mangles
-- Trenger allen wrench med minste størrelse for å skru av og på deler
+- Tannhjulene og belte er stive/vanskelig å bevege
