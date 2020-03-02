@@ -14,6 +14,8 @@
 
 ## Specifikasjoner
 - Fire Nema 17 step motorer
+
+![nema17](nema17.jpg)
 - Pololu stepper motor driver A4988
 
 ![a4988](a4988diagram.jpg)
