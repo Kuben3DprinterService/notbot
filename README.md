@@ -8,7 +8,7 @@
 - Lars Christian Helgesen
 - Simen Solvang
 - Dreni Suka
-- ali abdullahi
+- Ali Abdullahi
 
 ## Status
 
