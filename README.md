@@ -18,7 +18,9 @@
 ![nema17](nema17.jpg)
 - Pololu stepper motor driver A4988
 
-![a4988](a4988diagram.jpg)
+![a4988diagram](a4988diagram.jpg)
+
+![a4988](a4988.jpg)
 - Aktiv kjøling gjennom vifte på undersiden
 
 ## Mangende deler
