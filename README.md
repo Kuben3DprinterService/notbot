@@ -23,6 +23,8 @@
 ![a4988](a4988.jpg)
 - Aktiv kjøling gjennom vifte på undersiden
 
+
+![printerproperties](printerproperties.png)
 ## Mangende deler
 - Print core
 - Skruer for deler
