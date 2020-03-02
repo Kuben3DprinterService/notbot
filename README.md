@@ -12,6 +12,9 @@
 ## Status
 
 ## Specifikasjoner
+- Fire Nema 17 step motorer
+- Pololu stepper motor driver A4988
+- Aktiv kjøling gjennom vifte på undersiden
 
 ## Mangende deler
 - Print core
@@ -24,8 +27,7 @@
 ## Test
 - Printeren har step motorer som beveger den rundt.
 
-- Bruker en skrue for å bevege seg opp og ned. 
+- Bruker en skrue for å bevege seg opp og ned.
 
 
 - Tannhjulene og belte er stive/vanskelig å bevege
-
