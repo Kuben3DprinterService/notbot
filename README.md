@@ -25,6 +25,8 @@
 
 
 ![printerproperties](printerproperties.png)
+
+![hardwarecomponents](hardwarecomponents.png)
 ## Mangende deler
 - Print core
 - Skruer for deler
