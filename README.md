@@ -15,6 +15,7 @@
 ## Specifikasjoner
 - Fire Nema 17 step motorer
 - Pololu stepper motor driver A4988
+
 ![a4988](a4988diagram.jpg)
 - Aktiv kjøling gjennom vifte på undersiden
 
